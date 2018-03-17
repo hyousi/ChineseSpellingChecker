@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hanlp-1.6">
+    <CLASSES>
+      <root url="file://G:/HanLP_JDK/hanlp-1.6.0-release" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://G:/HanLP_JDK/hanlp-1.6.0-release" />
+    </SOURCES>
+    <jarDirectory url="file://G:/HanLP_JDK/hanlp-1.6.0-release" recursive="false" />
+    <jarDirectory url="file://G:/HanLP_JDK/hanlp-1.6.0-release" recursive="false" type="SOURCES" />
+  </library>
+</component>
